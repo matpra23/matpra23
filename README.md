@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matpra23
+- 👀 I’m interested in sports, tech, programming and 
+- 🌱 I’m currently learning about many sides of IT and problem solving 
+- 💞️ I’m looking to collaborate on some simple projects to earn me some work experience
+- 📫 Reach me via email: prask1.m3@gmail.com
