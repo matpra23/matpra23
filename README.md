@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @matpra23.
-- 👀 I’m interested in sports, tech and programming, I also like math but not too much.
-- 🌱 I’m currently learning data structures, memory management and algorithms using C++ and Python.
-- 💞️ I’m looking to collaborate on some projects to earn me some work experience.
-- 📫 Reach me via email: prask1.m3@gmail.com.
+Hello, I’m @matpra23.
+  I’m currently a 2nd year student of IT.
+  I’m keen on collaborating on some small projects to gain practical experience.
+Contact via email📫: prask1.m3@gmail.com
