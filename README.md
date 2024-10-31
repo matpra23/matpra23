@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Hi, I'm Mateusz!<br>
+# 🦋 About Me: 
+### Hi, my name is Mateusz!<br>
 <br>
 🧑🏽‍💻 Software Developer and Graphics Designer exploring the world of tech </br>
 🧑🏽‍🎓 2nd Year student of Computer Science at University of Technology Częstochowa, Poland https://wiisi.pcz.pl/ </br>
@@ -24,9 +24,8 @@
 </br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matpra23&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matpra23&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matpra23&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
