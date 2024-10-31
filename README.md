@@ -2,7 +2,7 @@
 ### Hi, my name is Mateusz!<br>
 <br>
 🧑🏽‍💻 Software Developer and Graphics Designer exploring the world of tech </br>
-🧑🏽‍🎓 2nd Year student of Computer Science at University of Technology Częstochowa, Poland https://wiisi.pcz.pl/ </br>
+🧑🏽‍🎓 2nd Year student of Computer Science at University of Technology Częstochowa, Poland : https://wiisi.pcz.pl/ </br>
 💭 Currently learning about React.js framework as well as doing side projects in C++/Java </br> 
 
 
