@@ -2,8 +2,8 @@
 ### Hi, I'm Mateusz!<br>
 <br>
 🧑🏽‍💻 Software Developer and Graphics Designer exploring the world of tech </br>
-<br>🧑🏽‍🎓 2nd Year student [Copmuter Science](https://wiisi.pcz.pl/) at University of Technology Częstochowa, Poland </br>
-<br>💭 Currently learning about React.js framework as well as doing side projects in C++/Java </br> 
+🧑🏽‍🎓 2nd Year student [Computer Science](https://wiisi.pcz.pl/) at University of Technology Częstochowa, Poland </br>
+💭 Currently learning about React.js framework as well as doing side projects in C++/Java </br> 
 
 
 ## 🌐 Socials:
