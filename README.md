@@ -3,7 +3,7 @@
 <br>
 🧑🏽‍🎓 2nd Year student of Computer Science at University of Technology Częstochowa, Poland : https://wiisi.pcz.pl/ </br>
 🧑🏽‍💻 Software Developer and Graphics Designer exploring the world of tech </br>
-💭 Currently learning about React.js framework as well as doing side projects in C++/Java </br> 
+💭 Currently building an interactive Discord bot in JavaScript as well as doing side projects for school in C++/Java </br> 
 
 
 ## 🌐 Socials:
