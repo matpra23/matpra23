@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning assembly x86 and F#<br>🎯 Goals: Build my own IOS/Android app<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning assembly x86 and F#<br>🎯 Goals: Build my own IOS/Android app<br>🎲 Fun fact: I really like running</p>
 
 ###
 
