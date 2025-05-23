@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mateusz and I'm a student at University of Technology in Czestochowa: https://wiisi.pcz.pl/<br>From Poland, I speak fluent German and English.<br>I really like running</p>
+<p align="left">My name is Mateusz and I'm a 2'nd year student at University of Technology in Czestochowa: https://wiisi.pcz.pl/<br>From Poland, I speak fluent German and English.<br>I really like running</p>
 
 ###
 
