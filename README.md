@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">I work with</h2>
+<p align="left">Tech stack</p>
 
 ###
 
